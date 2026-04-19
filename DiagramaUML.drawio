@@ -1,0 +1,113 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="nXaeIoe4XDvY8cPy7FcI">
+    <mxGraphModel dx="1030" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-10" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;IConectable&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="40" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;+ sincronizarGPS(): void&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="140" x="30" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="160" width="160" x="420" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="160" x="420" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-14" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Vehiculo&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="450" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- id: String" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="160" x="420" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-48" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;startArrow=diamondThin;startFill=1;" target="TrtGoVIDrT7g0tIDtIqt-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ Vehiculo(id: String)&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ getId(): String&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ patronMovimiento(): void&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="120" x="420" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-18" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="140" width="140" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="140" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-57" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TrtGoVIDrT7g0tIDtIqt-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-22" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;DronTransporte&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-24" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="140" width="140" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="140" x="280" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-26" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;CamionAutonomo&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="290" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;+patronMovimiento(): void&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="150" x="75" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;br&gt;+patronMovimiento(): void&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="20" width="150" x="275" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-47" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" target="TrtGoVIDrT7g0tIDtIqt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-32" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="210" width="210" x="530" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="45" width="210" x="530" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-45" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=0;" target="TrtGoVIDrT7g0tIDtIqt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-34" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;CentroControl&lt;/font&gt;&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="170" x="560" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="210" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="- listaVehiculos: ArrayList&lt;Vehiculo&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ registrarUnidad(v: Vehiculo): void" vertex="1">
+          <mxGeometry height="30" width="190" x="540" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="+ monitorearFlota(): void" vertex="1">
+          <mxGeometry height="30" width="150" x="530" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-42" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" target="TrtGoVIDrT7g0tIDtIqt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-43" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.167;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" target="TrtGoVIDrT7g0tIDtIqt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TrtGoVIDrT7g0tIDtIqt-55" edge="1" parent="1" source="TrtGoVIDrT7g0tIDtIqt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TrtGoVIDrT7g0tIDtIqt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
